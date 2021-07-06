@@ -23,11 +23,23 @@ From within the Team Dashboard, click on "AWS Console" and then "Open AWS Consol
 
 | Name              | AWS Event Engine Hash |
 | ----------------- | ---------------------- |
-| Extra-2| 3373-037d306604-55 |
-| extra-1| 743b-0e3b3af644-cb |
-| Kevin Jordan| 2199-0e5117c494-b2 |
-| William McCullough| dfc5-03b3300964-7a |
-| Issac Weaver| 7b95-0165aaed64-90 |
+| William McCullough| c187-069c8ab404-02 |
+| Extra-1| 754e-0ed349c164-3d |
+| Joshua Mann| 6653-0092e53794-21 |
+| Brad Harris| 551f-0a061820a4-ac |
+| Extra-2| f949-066fa77424-db |
+| Karen Cheng| a7f4-074c2a74b4-f7 |
+| Amanda Gentzel| 9b97-053c712384-06 |
+| Caleb Johnson| fab0-003420c1d4-d5 |
+| Issac Weaver| 7259-0c932d8fd4-9d |
+| Paul Roysdon| 84bc-07dff48a94-a8 |
+| Tifani O'Brien| 31f8-0c3beaf664-3a |
+| Gavin Black| 2ed1-0c45527904-3a |
+| Christoph Michael| f125-01915317b4-5a |
+| Mack Blackburn| bc84-0fe7955bd4-e4 |
+| Robert Allen| 37f7-07355c5c44-4c |
+| Jack Linkous| a84e-0ea1a64674-15 |
+| Vilas Tulachan| fc36-0743dfa884-60 |
 
 !!! info
     These accounts will be available for you to use until close of business on **07/01/2021**
