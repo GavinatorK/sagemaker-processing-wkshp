@@ -1,4 +1,6 @@
-# Sagemaker Pipelines Workshop (Cont.)
+# Sagemaker Processing Workshop
+
+In the previous workshop we have set up Sagemaker Pipelines for working with Abalone dataset. We used processing step for data transformation and Model Evaluation. In this workshop, we will take a closer look at Sagemaker processing and what we can do with it. 
 
 # Getting Started
 
@@ -97,12 +99,8 @@ First we are going to start a SageMaker Studio instance.
 	- It may take a few seconds to a few minutes for a code cell to run (an asterick will appear in "[ ]" when running and will change to a number once execution has completed).  Please run each code cell in order, and only once, to avoid repeated operations.  For example, running the same training job cell twice might create two training jobs, possibly exceeding your service limits.
 
 
-## Pipelines Event Trigger with code changes
-Continuation of previous workshop with pipeline trigger with code changes
+## Previous Workshop 
 
-
-
-## Previous Workshop
 
 ### Pipelines set up
 In this section of the workshop, we will look at the mechanics of setting up a pipeline with steps from loading data, preprocessing, building and training a model, evaluating and registering and performing batch inference on Sagemaker Studio
